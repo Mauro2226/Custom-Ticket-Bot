@@ -18,3 +18,4 @@ A super customizable ticket bot!
 * *node ticket.js*
 
 # For any problem you can contact me
+## My discord: Maurizio#0268
