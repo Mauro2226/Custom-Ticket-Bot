@@ -26,5 +26,3 @@ A super customizable ticket bot!
 
 # For any problem you can contact me
 ## My discord: Maurizio#0268
-
-git  
