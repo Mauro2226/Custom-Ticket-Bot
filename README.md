@@ -1,4 +1,4 @@
-`#ff0000`# Ticket-Bot-Open-Source
+#ff0000# Ticket-Bot-Open-Source
 A super customizable ticket bot!
 
 # Start the bot:
