@@ -17,7 +17,12 @@ A super customizable ticket bot!
 **Install discord.js in the bot directory**
 * *cd /ticket_directory_here* 
 * *npm install discord.js* 
-* node ticket.js*
+* *node ticket.js*
+
+**Send the ticket embed**
+`prefix+ticket`
+*For example:*
+`!ticket`
 
 # For any problem you can contact me
 ## My discord: Maurizio#0268
