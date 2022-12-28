@@ -1,4 +1,4 @@
-# Ticket-Bot-Open-Source
+`#ff0000`# Ticket-Bot-Open-Source
 A super customizable ticket bot!
 
 # Start the bot:
@@ -15,7 +15,9 @@ A super customizable ticket bot!
 **Install discord.js in the bot directory**
 * *cd /ticket_directory_here* 
 * *npm install discord.js* 
-* *node ticket.js*
+* node ticket.js*
 
 # For any problem you can contact me
 ## My discord: Maurizio#0268
+
+git  
