@@ -1,5 +1,6 @@
 # Custom Ticket Bot
-A super customizable ticket bot!
+A super customizable ticket bot for discord!
+Developed in Discord.JS v14
 
 # Start the bot:
 **Compile the config.json file with a text editor**
