@@ -1,4 +1,4 @@
-#ff0000# Ticket-Bot-Open-Source
+# Ticket-Bot-Open-Source
 A super customizable ticket bot!
 
 # Start the bot:
@@ -8,6 +8,8 @@ A super customizable ticket bot!
 * *Bot_permission_role: id of the role that can do anything with the bot*
 * *Client_id: id of the bot in your server*
 * *Messaage: set all the message in this section*
+  * *In the style button section you can choose between 1(Primary),2(Secondary),3(Success),4(Danger)*
+  * *In the embed color section you need to insert the hex code of the color that you want*
 * *Category_new_ticket: id of the category where new tickets will be entered*
 * *Log_category: id of the log channel*
 * *Everyone_role: id of the everyone role*
