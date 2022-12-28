@@ -1,0 +1,41 @@
+{
+    "token":"",
+    "prefix":"!",
+    "bot_permission_role":"",
+    "client_id": "",
+    "message":{
+        "bot_ready":"Open Source ticket Online!",
+        "already_have_a_ticket_message":"You already have an open ticket on this server!",
+        "no_permission":"You don't have sufficient permissions!",
+        "embed_open_ticket":{
+            "title":"**TICKET**",
+            "description":"Press the button below to open a ticket!",
+            "color":"#ff0000",
+            "emoji_button":"🔥",
+            "button_style":1
+        },
+        "embed_new_ticket":{
+            "title":"**NEW TICKET**",
+            "description":"A staff member will get back to you shortly!",
+            "color":"#ff0000",
+            "delete_emoji_button":"🔥",
+            "delete_button_style":1,
+            "transcription_emoji_button":"🔥",
+            "transcription_button_style":1
+        },
+        "embed_delete": {
+            "title": "**NEW DELETED TICKET**",
+            "eliminated_by_message": "Eliminated by: ",
+            "eliminated_ticket_message": "Channel name deleted: ",
+            "color": "#ff0000"
+        },
+        "embed_transcript": {
+            "title": "**NEW TRANSCRIPT**",
+            "creatd_by_message": "Created by: ",
+            "color": "#ff0000"
+        }
+    },
+    "category_new_ticket":"",
+    "log_category": "",
+    "everyone_role":""
+}

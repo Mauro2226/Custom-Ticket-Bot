@@ -1,0 +1,14 @@
+{
+  "name": "ticketbot-open-source",
+  "version": "1.0.0",
+  "description": "An open-source ticket bot",
+  "main": "ticket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurizio#0268",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
