@@ -1,4 +1,4 @@
-# Ticket-Bot-Open-Source
+# Custom Ticket Bot
 A super customizable ticket bot!
 
 # Start the bot:
